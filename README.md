@@ -12,6 +12,8 @@ My name is Fredrik S. Olsen, and I'm a junior front-end developer from Norway.
 - Wordpress
 - Strapi
 - React
+- Python
+- Raspberry Pi
 
 ### Portfolio
 
